@@ -7,6 +7,7 @@
 //
 
 #import "FirstViewController.h"
+#import "Item.h"
 
 @interface FirstViewController ()
 
@@ -18,6 +19,17 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    //Lets work with OO programming in objective C.
+    //First, to use a class, we must #import... in this case we use #import "Item.h"
+    //Declare an object
+    Item *item = [[Item alloc] init];
+    
+    //set a property
+    [item setName:@"Walter White"];
+    
+    //get a property
+    NSMutableString* breakingBad = [item Name];
 }
 
 - (void)viewDidUnload

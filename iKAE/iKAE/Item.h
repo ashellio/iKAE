@@ -17,7 +17,7 @@
 //A declared property provides a syntactical shorthand for declaring a class’s accessor methods and, optionally, implementing them.
 //https://developer.apple.com/library/ios/documentation/general/conceptual/devpedia-cocoacore/DeclaredProperty.html
 @property (assign) int Id;
-@property (assign) NSMutableString *Name;
+@property (weak) NSMutableString *Name;
 
 -(void) setName:(NSMutableString*) name;
 

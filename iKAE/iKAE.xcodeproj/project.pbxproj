@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1AEB4EC419B5A44B00C80400 /* Client.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AEB4EC319B5A44B00C80400 /* Client.m */; };
 		39C2BA2C1830B0EE0018C989 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2BA2B1830B0EE0018C989 /* Item.m */; };
 		39C2BA2D1830B0EE0018C989 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2BA2B1830B0EE0018C989 /* Item.m */; };
 		39F7F0A3182EC2F1007B41C3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39F7F0A2182EC2F1007B41C3 /* UIKit.framework */; };
@@ -41,6 +42,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1AEB4EC219B5A44B00C80400 /* Client.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Client.h; path = ../../../../../Applications/Xcode/iKAE/iKAE/iKAE/Client.h; sourceTree = "<group>"; };
+		1AEB4EC319B5A44B00C80400 /* Client.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Client.m; path = ../../../../../Applications/Xcode/iKAE/iKAE/iKAE/Client.m; sourceTree = "<group>"; };
 		39C2BA2A1830B0EE0018C989 /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
 		39C2BA2B1830B0EE0018C989 /* Item.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Item.m; sourceTree = "<group>"; };
 		39F7F09E182EC2F1007B41C3 /* iKAE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iKAE.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,6 +98,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1AEB4EC119B5A41F00C80400 /* Client Group */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB4EC219B5A44B00C80400 /* Client.h */,
+				1AEB4EC319B5A44B00C80400 /* Client.m */,
+			);
+			name = "Client Group";
+			sourceTree = "<group>";
+		};
 		39C2BA281830B07F0018C989 /* Model Group */ = {
 			isa = PBXGroup;
 			children = (
@@ -137,6 +149,7 @@
 		39F7F0A8182EC2F1007B41C3 /* iKAE */ = {
 			isa = PBXGroup;
 			children = (
+				1AEB4EC119B5A41F00C80400 /* Client Group */,
 				39C2BA281830B07F0018C989 /* Model Group */,
 				39F7F0B1182EC2F2007B41C3 /* AppDelegate.h */,
 				39F7F0B2182EC2F2007B41C3 /* AppDelegate.m */,
@@ -298,6 +311,7 @@
 			files = (
 				39F7F0AF182EC2F2007B41C3 /* main.m in Sources */,
 				39F7F0B3182EC2F2007B41C3 /* AppDelegate.m in Sources */,
+				1AEB4EC419B5A44B00C80400 /* Client.m in Sources */,
 				39F7F0BC182EC2F2007B41C3 /* FirstViewController.m in Sources */,
 				39F7F0C3182EC2F2007B41C3 /* SecondViewController.m in Sources */,
 				39C2BA2C1830B0EE0018C989 /* Item.m in Sources */,

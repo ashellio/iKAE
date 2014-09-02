@@ -5,13 +5,15 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A6353C07-F4D9-473A-9342-68B3A62B9D5B</string>
+	<string>6619ECDB-9837-4157-A1BE-39ACAE299696</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iKAE</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>0773A5A6-6BD1-48E8-B1C8-38728D5640D3</key>
 		<string>https://github.com/ashellio/iKAE.git</string>
+		<key>F05413FD-64D9-4AB3-A8CB-55FC0A1A853F</key>
+		<string>https://github.com/ashellio/iKAE</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iKAE/iKAE.xcodeproj/project.xcworkspace</string>
@@ -19,6 +21,8 @@
 	<dict>
 		<key>0773A5A6-6BD1-48E8-B1C8-38728D5640D3</key>
 		<string>../../..</string>
+		<key>F05413FD-64D9-4AB3-A8CB-55FC0A1A853F</key>
+		<string>../../../../../../Applications/Xcode/iKAE</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/ashellio/iKAE.git</string>
@@ -33,6 +37,14 @@
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>0773A5A6-6BD1-48E8-B1C8-38728D5640D3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iKAE</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F05413FD-64D9-4AB3-A8CB-55FC0A1A853F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iKAE</string>
 		</dict>

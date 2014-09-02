@@ -10,6 +10,7 @@
 
 #import "iKAETests.h"
 #import "Item.h"
+#import "Client.h"
 
 @implementation iKAETests
 
@@ -48,5 +49,11 @@
     NSMutableString* breakingBad = [item Name];
     
     STAssertEqualObjects(breakingBad, [item Name], @"Strings are not equal.");
+}
+
+- (void)testClient
+{
+    Client *client = [[Client alloc] init];
+    [client getFromService];
 }
 @end

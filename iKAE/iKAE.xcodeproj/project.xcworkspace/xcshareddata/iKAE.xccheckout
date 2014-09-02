@@ -5,46 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6619ECDB-9837-4157-A1BE-39ACAE299696</string>
+	<string>ADDFF587-0C41-47DF-9E8F-46985EC336DC</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iKAE</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>0773A5A6-6BD1-48E8-B1C8-38728D5640D3</key>
+		<key>4F522C95-2AB5-4D4E-98BE-359BFF7AF7FE</key>
 		<string>https://github.com/ashellio/iKAE.git</string>
-		<key>F05413FD-64D9-4AB3-A8CB-55FC0A1A853F</key>
-		<string>https://github.com/ashellio/iKAE</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>iKAE/iKAE.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>0773A5A6-6BD1-48E8-B1C8-38728D5640D3</key>
+		<key>4F522C95-2AB5-4D4E-98BE-359BFF7AF7FE</key>
 		<string>../../..</string>
-		<key>F05413FD-64D9-4AB3-A8CB-55FC0A1A853F</key>
-		<string>../../../../../../Applications/Xcode/iKAE</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/ashellio/iKAE.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>0773A5A6-6BD1-48E8-B1C8-38728D5640D3</string>
+	<string>4F522C95-2AB5-4D4E-98BE-359BFF7AF7FE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>0773A5A6-6BD1-48E8-B1C8-38728D5640D3</string>
-			<key>IDESourceControlWCCName</key>
-			<string>iKAE</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F05413FD-64D9-4AB3-A8CB-55FC0A1A853F</string>
+			<string>4F522C95-2AB5-4D4E-98BE-359BFF7AF7FE</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iKAE</string>
 		</dict>

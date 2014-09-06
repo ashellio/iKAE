@@ -10,4 +10,5 @@
 
 @interface Client : NSObject
 -(void) getFromService;
+-() getPlayerStatsForUserTeam: (NSMutableString*) userTeamName;
 @end

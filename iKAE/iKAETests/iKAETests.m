@@ -55,5 +55,6 @@
 {
     Client *client = [[Client alloc] init];
     [client getFromService];
+    [client getPlayerStatsForUserTeam:@"Narwal"];
 }
 @end

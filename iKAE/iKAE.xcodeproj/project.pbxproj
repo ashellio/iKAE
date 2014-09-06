@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1AA35A9919B6D9940001742F /* PlayerStat.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AA35A9819B6D9940001742F /* PlayerStat.m */; };
 		1AEB4EC419B5A44B00C80400 /* Client.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AEB4EC319B5A44B00C80400 /* Client.m */; };
 		39C2BA2C1830B0EE0018C989 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2BA2B1830B0EE0018C989 /* Item.m */; };
 		39C2BA2D1830B0EE0018C989 /* Item.m in Sources */ = {isa = PBXBuildFile; fileRef = 39C2BA2B1830B0EE0018C989 /* Item.m */; };
@@ -42,6 +43,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1AA35A9719B6D9940001742F /* PlayerStat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerStat.h; sourceTree = "<group>"; };
+		1AA35A9819B6D9940001742F /* PlayerStat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerStat.m; sourceTree = "<group>"; };
 		1AEB4EC219B5A44B00C80400 /* Client.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Client.h; sourceTree = "<group>"; };
 		1AEB4EC319B5A44B00C80400 /* Client.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Client.m; path = /Users/KAE/iKAE/iKAE/iKAE/Client.m; sourceTree = "<absolute>"; };
 		39C2BA2A1830B0EE0018C989 /* Item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Item.h; sourceTree = "<group>"; };
@@ -112,6 +115,8 @@
 			children = (
 				39C2BA2A1830B0EE0018C989 /* Item.h */,
 				39C2BA2B1830B0EE0018C989 /* Item.m */,
+				1AA35A9719B6D9940001742F /* PlayerStat.h */,
+				1AA35A9819B6D9940001742F /* PlayerStat.m */,
 			);
 			name = "Model Group";
 			sourceTree = "<group>";
@@ -310,6 +315,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39F7F0AF182EC2F2007B41C3 /* main.m in Sources */,
+				1AA35A9919B6D9940001742F /* PlayerStat.m in Sources */,
 				39F7F0B3182EC2F2007B41C3 /* AppDelegate.m in Sources */,
 				1AEB4EC419B5A44B00C80400 /* Client.m in Sources */,
 				39F7F0BC182EC2F2007B41C3 /* FirstViewController.m in Sources */,
